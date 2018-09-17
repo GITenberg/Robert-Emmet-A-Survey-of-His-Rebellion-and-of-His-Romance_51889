@@ -1,5 +1,8 @@
 _repo: Robert-Emmet-A-Survey-of-His-Rebellion-and-of-His-Romance_51889
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51889-h/images/cover.jpg
 creator:
   author:
     agent_name: Guiney, Louise Imogen
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39368
     wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51889#Robert-Emmet-A-Survey-of-His-Rebellion-and-of-His-Romance
 gutenberg_issued: '2016-04-29'
 gutenberg_type: Text
 identifiers:
